@@ -16,7 +16,8 @@
 					"referenceName": "LS_Keyvault",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "sqlserver-metadata-db"
+				"secretName": "sqlserver-metadata-db",
+				"secretVersion": "8f3f933de1af4bc8a453ccec579dc2e9"
 			}
 		}
 	}
